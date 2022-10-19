@@ -21,7 +21,7 @@ You need to add this file and insert the following variables enviorment:
 ```
 NODE_ENV=development
 PORT = // PORT Number
-db = // DataBase Connection String URI Format
+db = // DataBase Connection String URL Format
 secretKey = // Some String
 ```
 
