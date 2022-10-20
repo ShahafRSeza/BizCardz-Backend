@@ -1,4 +1,4 @@
-# :desktop_computer: REST API Project
+# :desktop_computer: BizCardz - Server Side
 
 I built this project for an assignment as part of a Full Stack Web Development course I study at the HackerU College.
 With all my love for a client-side projects, this entire project is based on server side only.
@@ -24,6 +24,9 @@ PORT = // PORT Number
 db = // DataBase Connection String URL Format
 secretKey = // Some String
 ```
+
+## See the Client-Side
+[click here](https://github.com/ShahafRSeza/BizCardz-Frontend).
 
 :star2:	Made by Shahaf Seza
 
